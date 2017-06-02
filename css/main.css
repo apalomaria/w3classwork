@@ -1,0 +1,35 @@
+nav {
+  background-color: black;
+}
+ a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav li > a:hover{
+  color: #F0E68C;
+}
+
+.button {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 55px;
+  margin: 15px;
+  font-size: 15px;
+}
+
+.A {
+  font-size: 15px;
+  color: blue;
+}
+
+.B {
+  font-size: 15px;
+  color: blue;
+
+}
+
+.C {
+  font-size: 25px;
+  background-color: blue;
+}
